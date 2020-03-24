@@ -39,3 +39,5 @@ So the first step I am planning are the following:
 I shall continue to post as I find time to code and write more on this blog.
 
 In the meantime, feel free to leave a message here or on /r/programming.
+
+And of course, it goes without saying, in the spirit of free software, you are welcome to participate and FORK IT!!
