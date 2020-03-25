@@ -44,5 +44,7 @@ And of course, it goes without saying, in the spirit of free software, you are w
 
 
 ```
-Phos_PHP$ php phos.php Documents/N-Roulette/programming.html fgh: h3 find: cx: dup: ON ECHO bv:   A l: 1 - 2 pick: over: dup: esp:     i:  st:  // esp: nl:    esp:   nl: nl:  A bnz:  nl: > o_programming.txt
+Phos_PHP$ php phos.php Documents/N-Roulette/programming.html fgh: h3 find: cx: dup: ON ECHO bv:   
+A l: 1 - 2 pick: over: dup: esp:     i:  st:  // esp: nl:    esp:   nl: nl:  
+A bnz:  nl: > o_programming.txt
 ```
