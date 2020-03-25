@@ -43,8 +43,12 @@ In the meantime, feel free to leave a message here or on /r/programming.
 And of course, it goes without saying, in the spirit of free software, you are welcome to participate and FORK IT!!
 
 
+### Phos Script
+
 ```
 Phos_PHP$ php phos.php Documents/N-Roulette/programming.html fgh: h3 find: cx: dup: ON ECHO bv:   
 A l: 1 - 2 pick: over: dup: esp:     i:  st:  // esp: nl:    esp:   nl: nl:  
 A bnz:  nl: > o_programming.txt
 ```
+
+Output: [ o_programming.txt ](https://github.com/udexon/ReddAnalyz/blob/master/o_programming.txt)
