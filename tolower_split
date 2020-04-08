@@ -1,0 +1,43 @@
+<div class="_1rZYMD_4xY3gRcSS3p8ODO" style="color: rgb(26, 26, 27); --darkreader-inline-color:#dedcd7;" data-darkreader-inline-color="">10</div>
+
+a[0].innerHTML.toLowerCase().replace(/\W/g, ' ').replace(/\s+/g, " ").split(' ')
+
+aw=a[0].innerHTML.toLowerCase().replace(/\W/g, ' ').replace(/\s+/g, " ").split(' ')
+Array(29) [ "we", "are", "carnegie", "mellon", "university", "students", "and", "we", "help", "build", … ]
+
+aw
+Array(29) [ "we", "are", "carnegie", "mellon", "university", "students", "and", "we", "help", "build", … ]
+
+WW={}
+Object {  }
+
+for(i=0; i<aw.length; i++) WW[aw[i]]=736
+736
+
+
+a=document.getElementsByTagName('h3')
+b=document.getElementsByClassName('_1rZYMD_4xY3gRcSS3p8ODO')
+
+c=document.getElementsByClassName('_eYtD2XCVieq6emjKBH3m')
+
+WW={}
+
+for(j=0; j<a.length; j++) {
+
+aw=a[j].innerHTML.toLowerCase().replace(/\W/g, ' ').replace(/\s+/g, " ").split(' ')
+
+if (2*j<=b.length) w=b[2*j].innerHTML
+else w=1
+
+if ( isNaN( parseInt(w) ) ) w=1
+
+console.log(j, w)
+if (typeof w !== "undefined") for(i=0; i<aw.length; i++) {
+if (typeof WW[aw[i]]==="undefined") WW[aw[i]]=parseInt(w)
+else WW[aw[i]]+=parseInt(w)
+console.log(i, aw[i], w)
+}
+}
+
+
+<h3 class="_eYtD2XCVieq6emjKBH3m">How to validate your request parameters easily using middleware in node.js</h3>
