@@ -1,8 +1,8 @@
-Find a weekly top Reddit topic. Make a title that is very similar. See if this attracts readers. 
+### Reddit /r/programming Topics sorted by TOP week ending 12 Apr 2020
 
-Merge Trick Howto Algorithm.
-
-Merge Tools, Operating System, Programming Languages.
+Categories to merge:
+- Tricks, Howto, Algorithms.
+- Tools, Operating System, Programming Languages.
 
 Trick (5): 
 - This Video Has 164,608 Views (Tom Scott on web APIs), 
@@ -51,6 +51,7 @@ Tree structure, build bigger teams.
 
 Then people can choose to join big group, based on expertise etc.
 
+Find a weekly top Reddit topic. Make a title that is very similar. See if this attracts readers. 
 
 
  
