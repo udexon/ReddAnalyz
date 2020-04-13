@@ -1,4 +1,4 @@
-### Reddit /r/programming Topics sorted by TOP week ending 12 Apr 2020
+### Reddit /r/programming Topics sorted by TOP for week ending 12 Apr 2020
 
 Categories to merge:
 - Tricks, Howto, Algorithms.
