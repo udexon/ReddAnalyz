@@ -2,7 +2,7 @@
 
 Categories to merge:
 - Tricks, Howto, Algorithms.
-- Tools, Operating System, Programming Languages.
+- Tools, Operating Systems, Programming Languages.
 
 Tricks (5): 
 - This Video Has 164,608 Views (Tom Scott on web APIs), 
@@ -17,6 +17,8 @@ Programming Languages (4):
 - Elm, 
 - COBOL in 100 seconds
 
+- COBOL (3)
+
 Tools (11): 
 - Linux filesystem in Windows, 
 - Firefox lazy loading imaged, 
@@ -30,13 +32,15 @@ Tools (11):
 - Docker Compose, 
 - (11) Microsoft Edge overtakes Firefox
 
-Promotion (1): 
+- Microsoft (3)
+
+Promotions (1): 
 - Standford MOOC
 
-Joke (2): 
+Jokes (2): 
 - Microservices
 
-Celebrity (1): 
+Celebrities (1): 
 - Conway
 
 Operating System (1): 
