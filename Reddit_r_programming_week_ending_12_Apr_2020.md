@@ -37,7 +37,7 @@ Tools (11):
 Promotions (1): 
 - Standford MOOC
 
-Jokes (2): 
+Jokes (1): 
 - Microservices
 
 Celebrities (1): 
