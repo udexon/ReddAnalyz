@@ -4,20 +4,20 @@ Merge Trick Howto Algorithm.
 
 Merge Tools, Operating System, Programming Languages.
 
-Trick: 
+Trick (5): 
 - This Video Has 164,608 Views (Tom Scott on web APIs), 
 - Dev null service, 
 - Slack TURN servers, 
 - Git Ryzen, 
 - Database schema design
 
-Programming Language: 
+Programming Language (4): 
 - IBM offer COBOL, 
 - New Jersey COBOL, 
 - Elm, 
 - COBOL in 100 seconds
 
-Tools: 
+Tools (11): 
 - Linux filesystem in Windows, 
 - Firefox lazy loading imaged, 
 - gitlab features, 
@@ -30,17 +30,17 @@ Tools:
 - Docker Compose, 
 - (11) Microsoft Edge overtakes Firefox
 
-Promotion: 
+Promotion (1): 
 - Standford MOOC
 
-Joke: 
+Joke (2): 
 - Microservices
 - Celebrity: Conway
 
-Operating System: 
+Operating System (1): 
 - Creators of Unix talk about Unix
 
-Algorithm: 
+Algorithm (2): 
 - multi body muscle simulation, 
 - Quake reinforcement learning, 
 
