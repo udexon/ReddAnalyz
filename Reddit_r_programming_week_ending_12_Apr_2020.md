@@ -4,14 +4,14 @@ Categories to merge:
 - Tricks, Howto, Algorithms.
 - Tools, Operating System, Programming Languages.
 
-Trick (5): 
+Tricks (5): 
 - This Video Has 164,608 Views (Tom Scott on web APIs), 
 - Dev null service, 
 - Slack TURN servers, 
 - Git Ryzen, 
 - Database schema design
 
-Programming Language (4): 
+Programming Languages (4): 
 - IBM offer COBOL, 
 - New Jersey COBOL, 
 - Elm, 
@@ -35,7 +35,9 @@ Promotion (1):
 
 Joke (2): 
 - Microservices
-- Celebrity: Conway
+
+Celebrity (1): 
+- Conway
 
 Operating System (1): 
 - Creators of Unix talk about Unix
@@ -44,14 +46,19 @@ Algorithm (2):
 - multi body muscle simulation, 
 - Quake reinforcement learning, 
 
-Tools: people are attracted due to big names in tools?
 
-Reddit Buddy: Review and Help someone. Get projection. If no projection, coach them. If has projection, monitor.
-Tree structure, build bigger teams.
+#### Analysis
 
-Then people can choose to join big group, based on expertise etc.
+1. Tools: are Redditors attracted due to big names in tools?
 
-Find a weekly top Reddit topic. Make a title that is very similar. See if this attracts readers. 
+2. Reddit Buddy: Review and Help someone. 
+- Get projection. 
+- If no projection, coach them to make projection. 
+- If has projection, monitor the project.
+- Tree structure, build bigger teams.
+- Then people can choose to join big group, based on expertise etc.
+
+3. Find a weekly top Reddit topic. Make a title that is very similar. See if this attracts readers. 
 
 
  
